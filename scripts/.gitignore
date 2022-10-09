@@ -1,0 +1,8 @@
+sweep_files*
+cached_*/*
+*.pl
+*.pq
+run_this
+run_this_random
+*.png
+*.pdf
